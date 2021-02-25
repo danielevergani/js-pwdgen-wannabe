@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  width: 1070px;
+  margin: auto;
+}
+
+.wrapper h1{
+  text-align: center;
+}
+
+.ins_dati p{
+  margin-bottom: 10px;
+}
+
+h2{
+  text-align: center;
+  color: red;
+}
