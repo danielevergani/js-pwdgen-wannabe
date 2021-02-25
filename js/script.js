@@ -1,8 +1,8 @@
-alert("con questo programma genereremo la tua password")
+alert("con questo programma genereremo la tua password");
 
 document.getElementById("titolo").innerHTML = "GENERATORE PASSWORD";
 
-var nome = prompt("scrivi il tuo nome")
+var nome = prompt("scrivi il tuo nome");
 document.getElementById("nome").innerHTML = "bene, il tuo nome è " + nome;
 
 var cognome = prompt("ora scrivi il tuo cognome");
