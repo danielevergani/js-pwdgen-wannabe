@@ -11,4 +11,4 @@ document.getElementById("cognome").innerHTML = " il tuo cognome è " + cognome;
 var colore = prompt("come ultima cosa scrivi il tuo colore preferito");
 document.getElementById("colore").innerHTML = " e il tuo colore preferito è il " + colore;
 
-document.getElementById("pw").innerHTML = "la tua password sarà " + nome + cognome + colore + "21";
+document.getElementById("pw").innerHTML = "la tua password sarà " + nome + cognome + colore + "27";
